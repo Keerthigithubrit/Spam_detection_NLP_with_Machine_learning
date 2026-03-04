@@ -87,7 +87,7 @@ python spam_detection.py
    * Sample prediction for custom messages
 
 ## Conclusion:
-   * Naïve Bayes is highly effective for spam detection in text datasets.
+   * Naive Bayes is highly effective for spam detection in text datasets.
    * The model achieved high accuracy (98%) and good recall for spam messages (0.89).
    * No threshold adjustment is needed — the model is already performing near optimally for this dataset.
 
@@ -95,6 +95,7 @@ python spam_detection.py
 
 ## Author
 * Keerthy
+
 
 
 
