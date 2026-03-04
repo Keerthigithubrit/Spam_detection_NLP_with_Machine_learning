@@ -92,8 +92,10 @@ python spam_detection.py
    * No threshold adjustment is needed — the model is already performing near optimally for this dataset.
 
 > For future improvements, using n-grams, ensembles could further reduce missed spam messages.
-### Author
+
+## Author
 * Keerthy
 * Keerthys2ssoft@gmail.com
+
 
 
