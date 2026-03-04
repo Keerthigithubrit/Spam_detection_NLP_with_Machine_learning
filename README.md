@@ -95,7 +95,8 @@ python spam_detection.py
 
 ## Author
 * Keerthy
-* Keerthys2ssoft@gmail.com
+
+
 
 
 
